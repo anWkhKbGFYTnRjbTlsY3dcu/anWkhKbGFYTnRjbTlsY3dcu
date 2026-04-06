@@ -1,4 +1,4 @@
-## Hi there {gifs/wave}
+## Hello there! <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/Wave.gif" width="16">
 
 
 | Command | Description |
