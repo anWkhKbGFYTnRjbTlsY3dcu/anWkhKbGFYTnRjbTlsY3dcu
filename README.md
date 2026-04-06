@@ -3,9 +3,9 @@
 
 | Topic | Title | Description | Demo Link | Repo Link | AI Used | Stack used |
 | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
-
+| DEV | ReadMe-Baker | An interactive README builder featuring drag-and-drop actions and real-time previews | [Demo](https://anwkhkbgfytnrjbtlsy3dcu.github.io/ReadMe-Baker) | [Repo](https://github.com/anWkhKbGFYTnRjbTlsY3dcu/ReadMe-Baker) | Gemini 3 | --- |
+| Project Management | RACI matrix builder | Interactive drag-and-drop assignment with live previews and instant PDF and Excel export. | [Demo](https://anwkhkbgfytnrjbtlsy3dcu.github.io/RACI-matrix-builder/) | [Repo](https://github.com/anWkhKbGFYTnRjbTlsY3dcu/RACI-matrix-builder) | Claude | --- |
+| Project Management | Project Scope Builder | Interactive drag-and-drop assignment with live previews and instant PDF export. | [Demo](https://anwkhkbgfytnrjbtlsy3dcu.github.io/Scope-and-RACI-Generator/docs/index.html/) | [Repo](https://github.com/anWkhKbGFYTnRjbTlsY3dcu/Scope-and-RACI-Generator) | Claude | --- |
 
 
 <!--
