@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there {gifs/wave}
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 <!--
 **anWkhKbGFYTnRjbTlsY3dcu/anWkhKbGFYTnRjbTlsY3dcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
