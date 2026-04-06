@@ -1,10 +1,11 @@
-## Hello there! <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/Wave.gif" width="16">
+## Hello there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Topic | Title | Description | Demo Link | Repo Link | AI Used | Stack used |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+
 
 
 <!--
