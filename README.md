@@ -1,12 +1,17 @@
 ## Hello there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 
+
 | Topic | Title | Description | Demo Link | Repo Link | AI Used | Stack used |
 | --- | --- | --- | --- | --- | --- | --- |
 | DEV | ReadMe-Baker | An interactive README builder featuring drag-and-drop actions and real-time previews | [Demo](https://anwkhkbgfytnrjbtlsy3dcu.github.io/ReadMe-Baker) | [Repo](https://github.com/anWkhKbGFYTnRjbTlsY3dcu/ReadMe-Baker) | Gemini 3 | --- |
 | Project Management | RACI matrix builder | Interactive drag-and-drop assignment with live previews and instant PDF and Excel export. | [Demo](https://anwkhkbgfytnrjbtlsy3dcu.github.io/RACI-matrix-builder/) | [Repo](https://github.com/anWkhKbGFYTnRjbTlsY3dcu/RACI-matrix-builder) | Claude | --- |
 | Project Management | Project Scope Builder | Interactive drag-and-drop assignment with live previews and instant PDF export. | [Demo](https://anwkhkbgfytnrjbtlsy3dcu.github.io/Scope-and-RACI-Generator/docs/index.html/) | [Repo](https://github.com/anWkhKbGFYTnRjbTlsY3dcu/Scope-and-RACI-Generator) | Claude | --- |
 
+
+----
+
+🔭 <a href="https://stackexchange.com/users/5450314"><img src="https://stackexchange.com/users/flair/5450314.png" width="208" height="58" alt="profile for andreis11 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for andreis11 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <!--
 **anWkhKbGFYTnRjbTlsY3dcu/anWkhKbGFYTnRjbTlsY3dcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
